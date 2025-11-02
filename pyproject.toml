@@ -10,6 +10,7 @@ dependencies = [
     "jupyter>=1.1.1",
     "numpy>=2.3.3",
     "pandas>=2.3.2",
+    "peft>=0.17.1",
     "ruff>=0.13.1",
     "torch>=2.8.0",
     "transformers[torch]>=4.57.0",
